@@ -52,7 +52,7 @@ O projeto utiliza:
 - Implementar um sistema de pontuação baseado no número de tentativas.
 - Disponibilizar suporte para mais idiomas na narração.
 
-## 💻 Autor
+## 💻 Autores
 
 - Gabriel Augusto Panucci
 - Projeto de lógica de Programação dos cursos Alura
