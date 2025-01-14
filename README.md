@@ -55,4 +55,5 @@ O projeto utiliza:
 ## 💻 Autor
 
 - Gabriel Augusto Panucci
+- Projeto de lógica de Programação dos cursos Alura
 ```
